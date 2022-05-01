@@ -4,3 +4,4 @@ It is a great way to reduce the time searching for daily stuffs and prevent loss
 Because IOT operates as a Java application, it would be easy to launch, access, and manage the records conveniently and efficiently.
 Although the functionality of this app overlaps partially with what can be achieved with Excel and written paper, it would have additional sorting and searching function.
 Additionally, IOT can be accessed instantaneously on any laptop or tablet, overcoming the inconvenience of carrying a paper-based note from place to place.
+Go to IOT.jar to directly launch the software.
